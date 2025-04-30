@@ -2,4 +2,9 @@
 
 Ejercicio Evaluado Especial
 
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+##Mis datos 
+
+- Cuhorte53
+- 30/04/2025
+- 09:52 am
+- Adán Israel Olea Hernández
